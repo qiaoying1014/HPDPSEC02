@@ -5,11 +5,11 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanyin0704&label=Profile%20views&color=0e75b6&style=flat" alt="WanYin0704" /> </p>
 
-- 🌱 I’m currently learning **Python, Looker Studio**
+- 🌱 I’m currently learning **Cloud Computing & Alteryx Designer**
 
-- 🔥Currently on a dedicated streak to attain **AWS Certified Cloud Practitioner, AWS Certified Solutions Architect - Associate, AWS Academy Graduate - AWS Academy Data Engineering and Alteryx Designer Core**
+- 🔥Currently on a dedicated streak to attain **Alteryx Foundation Micro-Credential, Alteryx Designer Core** credentials.
 
-- 📫 How to reach me **lingwanyin2002@gmail.com**
+- 📫 How to reach me **jingyong0814@gmail.com**
 <br>
 <h3 align="left">Connect with me 🌐</h3>
 <p align="left">
@@ -42,11 +42,6 @@
 - [SpineHealth](https://github.com/WanYin0704/SpineHealth) ==> **_Figma_**
 - [Data Analysis](https://github.com/WanYin0704/Data-Analysis) ==> **_R, Excel_**  
 <br>
-
-### Certifications 🏆
-- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/9d782e99-2e4f-492e-89a2-0c566a69e21a/public_url)
-
-- [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/d0a4fcd7-b546-4cf7-a1fa-ea3693a7382d/public_url)
 
 <br>
 <div>
