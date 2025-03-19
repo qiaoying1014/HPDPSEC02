@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm Arini 👋</h1>
 
-## 👨‍💻 About Me  
-- 🎓 **Data Engineering Student** | Passionate about data processing, cloud technologies, and automation.  
-- 🚀 Always learning and improving my **development and problem-solving skills**.  
+## 👩‍💻 About Me  
+- **Nur Arini Fatihah Binti Mohd Sabir**  
+- 🎓 **21-year-old, 3rd-year Computer Science (Data Engineering) student at UTM JB**  
+- 📍 Originally from **Negeri Sembilan**  
+- 💡 Passionate about **data processing, cloud technologies, and automation**  
+- 🚀 Always learning and improving my **development and problem-solving skills**  
 
 ---
 
