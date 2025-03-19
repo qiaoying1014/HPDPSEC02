@@ -1,1 +1,1 @@
-## Hi, Im Nur Farah Adibah☺️
+# Hi, I'm Nur Farah Adibah 👋👋👋
