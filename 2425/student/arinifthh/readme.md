@@ -50,11 +50,10 @@ A **community-driven platform** designed specifically for **special needs indivi
 
 
 ---
-
 ## 📫 Let's Connect!  
 
-💼 **LinkedIn:** [Arini Fatihah](www.linkedin.com/in/arini-fatihah-305172262)  
-📧 **Email:** [arinifatihah710@gmail.com](arinifatihah710@gmail.com)  
+💼 **LinkedIn:** [Arini Fatihah](https://www.linkedin.com/in/arini-fatihah-305172262/)  
+📧 **Email:** [arinifatihah710@gmail.com](mailto:arinifatihah710@gmail.com)  
 
 ---
 
