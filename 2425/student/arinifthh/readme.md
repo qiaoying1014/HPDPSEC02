@@ -2,7 +2,6 @@
 
 ## 👨‍💻 About Me  
 - 🎓 **Data Engineering Student** | Passionate about data processing, cloud technologies, and automation.  
-- 📊 Love working with **Python, SQL, Cloud Services (AWS, Azure), and Automation tools**.  
 - 🚀 Always learning and improving my **development and problem-solving skills**.  
 
 ---
@@ -55,7 +54,7 @@ A **community-driven platform** designed specifically for **special needs indivi
 ## 📫 Let's Connect!  
 
 💼 **LinkedIn:** [Arini Fatihah](www.linkedin.com/in/arini-fatihah-305172262)  
-📧 **Email:** [your.email@example.com](arinifatihah710@gmail.com)  
+📧 **Email:** [arinifatihah710@gmail.com](arinifatihah710@gmail.com)  
 
 ---
 
