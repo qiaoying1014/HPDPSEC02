@@ -9,7 +9,35 @@
 
 | No. | Name                                     | ID          | Github                         | Linked in | Portfolio |
 |-----:|------------------------------------------|-------------|:--------------------------------:| :--------------------------------:|:--------------------------------:|
-| 0   |           |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 0   | CAMILY TANG JIA LEI          |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 1   | GOH JING YANG                |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 2   | JASLENE YU                   |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 3   | JOSEPH LAU YEO KAI           |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 4   | LEE SOON DER                 |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 5   | LIM JING YONG                |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 6   | LOO JIA CHANG                |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 7   | MARCUS JOEY SAYNER           |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 8   | MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 9   | MUHAMMAD LUQMAN HAKIM BIN MOHD RIZAUDIN |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 10  | MUHAMMAD NUR AZHAR BIN MOHD YAZID |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 11  | MUHAMMAD SAFWAN BIN MOHD AZMI |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 12  | NEO ZHENG WENG               |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 13  | NG SHU YU                    |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 14  | NICOLE LIM TZE YEE           |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 15  | NIK ZULAIKHAA BINTI ZURAIDI AFANDI |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 16  | NUR ALEYSHA QURRATU'AINI BINTI MAT SALLEH |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 17  | NUR ARINI FATIHAH BINTI MOHD SABIR |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 18  | NUR FARAH ADIBAH BINTI IDRIS |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 19  | NURUL ERINA BINTI ZAINUDDIN  |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 20  | ONG YI YAN                   |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 21  | SOH HAN WEI                  |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 22  | TANG YAN QING                |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 23  | TIEW CHUAN SHEN              |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 24  | WONG KHAI SHIAN NICHOLAS     |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 25  | WONG QIAO YING               |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 26  | NAVASARATHY A/L S.GANESWARAN |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 27  | VINESH A/L VIJAYA KUMAR      |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+
 
 
 
