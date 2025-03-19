@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lim Jing Yong</h1>
 <h3 align="center">Third-year Data Engineering student at Universiti Teknologi Malaysia. Interested in Data Management and Handling.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"></a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wanyin0704&label=Profile%20views&color=0e75b6&style=flat" alt="WanYin0704" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jingyong14&label=Profile%20views&color=0e75b6&style=flat" alt="Jingyong14" /> </p>
 
 - 🌱 I’m currently learning **Cloud Computing & Alteryx Designer**
 
