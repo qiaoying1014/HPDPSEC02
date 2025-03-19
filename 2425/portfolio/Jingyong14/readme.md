@@ -32,20 +32,13 @@
 <br>
   
 ### Previous Projects 💻
-- [Intellect Playschool](https://github.com/WanYin0704/Intellect-Playschool-Management-System) (_Attendance module_) ==> **_CSS, PHP, HTML, JavaScript, phpMyAdmin, etc_**
-- [Car Booking System](https://github.com/WanYin0704/Car-Booking-System) ==> **_CSS, PHP, HTML, JavaScript, phpMyAdmin, etc_**
-- [Burger Delivery System](https://github.com/WanYin0704/Burger-Delivery-System) ==> **_Java_**
-- [UTM Course Registration System](https://github.com/WanYin0704/UTM-Course-Registration-System) ==> **_C++_**
-- [Vending Machine Stimulation Program](https://github.com/WanYin0704/Vending-Machine-Stimulation-Program) ==> **_Assembly_**
-- [SpineHealth](https://github.com/WanYin0704/SpineHealth) ==> **_Figma_**
-- [Data Analysis](https://github.com/WanYin0704/Data-Analysis) ==> **_R, Excel_**  
+- Student Activity Management System (_Profile & Resume Module_) ==> **_CSS, PHP, HTML, JavaScript, phpMyAdmin, SQL_**
 <br>
 
 <br>
 <div>
   
 ### GitHub Stats 🔥
-<img src="https://github-readme-stats.vercel.app/api?username=wanyin0704&show_icons=true&locale=en" alt="wanyin0704" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wanyin0704&" alt="wanyin0704" > 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wanyin0704&show_icons=true&locale=en&layout=compact" alt="wanyin0704" >
+<img src="https://github-readme-stats.vercel.app/api?username=Jingyong14&show_icons=true&locale=en" alt="wanyin0704" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jingyong14&" alt="wanyin0704" > 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jingyong14&show_icons=true&locale=en&layout=compact" alt="wanyin0704" >
