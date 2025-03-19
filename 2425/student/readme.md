@@ -22,7 +22,7 @@
 | 10  | MUHAMMAD NUR AZHAR BIN MOHD YAZID |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 11  | MUHAMMAD SAFWAN BIN MOHD AZMI |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 12  | NEO ZHENG WENG               |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
-| 13  | NG SHU YU                    |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 13  | NG SHU YU                    | ShuYu03 | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 14  | NICOLE LIM TZE YEE           |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 15  | NIK ZULAIKHAA BINTI ZURAIDI AFANDI |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 16  | NUR ALEYSHA QURRATU'AINI BINTI MAT SALLEH |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
