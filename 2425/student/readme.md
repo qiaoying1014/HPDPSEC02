@@ -10,7 +10,7 @@
 | No. | Name                                     | ID          | Github                         | Linked in | Portfolio |
 |-----:|------------------------------------------|-------------|:--------------------------------:| :--------------------------------:|:--------------------------------:|
 | 0   | CAMILY TANG JIA LEI          | camilytang | [:octocat:](https://github.com/camilytang) |<a href="https://www.linkedin.com/in/camily-tang/" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href="../portfolio/camilytang"><img src="../../images/portfolio.png" width="24px"></a> |
-| 1   | GOH JING YANG                |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 1   | GOH JING YANG                | jingyang26 | [:octocat:](https://github.com/jingyang26) |<a href="https://www.linkedin.com/in/goh-jing-yang-b4511b268/" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 2   | JASLENE YU                   |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 3   | JOSEPH LAU YEO KAI           |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 4   | LEE SOON DER                 |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
