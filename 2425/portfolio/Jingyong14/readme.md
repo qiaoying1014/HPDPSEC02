@@ -1,4 +1,4 @@
-<p align="center"><img align="center" alt="Coding" width="200" src="photo.jpg">
+<p align="center"><img align="center" alt="Coding" width="200" src="me.jpeg">
 
 <h1 align="center">Hi 👋, I'm Lim Jing Yong</h1>
 <h3 align="center">Third-year Data Engineering student at Universiti Teknologi Malaysia. Interested in Data Management and Handling.</h3>
@@ -13,8 +13,8 @@
 <br>
 <h3 align="left">Connect with me 🌐</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lingwanyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lingwanyin" height="40" width="50" /></a>
-<a href="https://instagram.com/wanyin02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wanyin02" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/lim-jing-yong-689b44256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="limjingyong" height="40" width="50" /></a>
+<a href="https://www.instagram.com/jyng814/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyng814" height="40" width="50" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools ⚙️🚀</h3>
