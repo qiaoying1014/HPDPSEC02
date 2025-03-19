@@ -39,6 +39,6 @@
 <div>
   
 ### GitHub Stats 🔥
-<img src="https://github-readme-stats.vercel.app/api?username=Jingyong14&show_icons=true&locale=en" alt="wanyin0704" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jingyong14&" alt="wanyin0704" > 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jingyong14&show_icons=true&locale=en&layout=compact" alt="wanyin0704" >
+<img src="https://github-readme-stats.vercel.app/api?username=Jingyong14&show_icons=true&locale=en" alt="jingyong14" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jingyong14&" alt="jingyong14" > 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jingyong14&show_icons=true&locale=en&layout=compact" alt="jingyong14" >
