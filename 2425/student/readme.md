@@ -34,7 +34,7 @@
 | 22  | TANG YAN QING                |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 23  | TIEW CHUAN SHEN              |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 24  | WONG KHAI SHIAN NICHOLAS     |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
-| 25  | WONG QIAO YING               | qiaoying1014 | [:octocat:](https://github.com/qiaoying1014) |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 25  | WONG QIAO YING               | qiaoying1014 | [:octocat:](https://github.com/qiaoying1014) |<a href="https://www.linkedin.com/in/qiao-ying-wong-6701b4181/" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 26  | NAVASARATHY A/L S.GANESWARAN |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 27  | VINESH A/L VIJAYA KUMAR      |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 
